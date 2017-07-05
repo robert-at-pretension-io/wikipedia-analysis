@@ -4,3 +4,5 @@ glove\.840B\.300d\.zip
 \.ipynb_checkpoints/
 
 glove\.840B\.300d\.txt
+
+word_embedding_project\.sqlite
