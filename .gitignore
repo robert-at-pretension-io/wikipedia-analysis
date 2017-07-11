@@ -10,3 +10,5 @@ word_embedding_project\.sqlite
 *.pdf
 
 tail\.txt
+
+errors\.txt
