@@ -12,3 +12,5 @@ word_embedding_project\.sqlite
 tail\.txt
 
 errors\.txt
+
+*glove*.txt
