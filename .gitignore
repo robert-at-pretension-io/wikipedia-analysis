@@ -14,3 +14,5 @@ tail\.txt
 errors\.txt
 
 *glove*.txt
+
+word_embedding_project\.sqlite-journal
